@@ -12,8 +12,9 @@ A mobile application designed for travelers and expats to easily convert currenc
 ## 📸 Application Screenshots
 <!-- ПРЯМО СЮДА перетащите мышкой ваши скриншоты с компьютера. 
 GitHub сам превратит их в картинки. Добавьте как можно больше экранов. -->
-<img src="https://github.com" width="250" alt="Screenshot_20260914_233854" src="https://github.com/user-attachments/assets/3835c005-a062-4a6f-8816-e58bebb95ae6" />
-<img src="https://github.com" width="250" alt="Screenshot_20260914_233821" src="https://github.com/user-attachments/assets/aed65d40-6ed4-4c34-aa48-762d38a691aa" />
-<img src="https://github.com" width="250" alt="Screenshot_20260914_233620" src="https://github.com/user-attachments/assets/e3eb47b0-854a-4a9f-a977-0182ae66e08b" />
-<img src="https://github.com" width="250" alt="Screenshot_20260914_233559" src="https://github.com/user-attachments/assets/14bd7522-23c9-40e8-b553-daf8ff9ded2d" />
+<img width="1080" height="2400" alt="Screenshot_20260914_233854" src="https://github.com/user-attachments/assets/d1b8c66a-b587-409a-85be-9217dde09454" width="250"/>
+<img width="1080" height="2400" alt="Screenshot_20260914_233821" src="https://github.com/user-attachments/assets/60a936cb-959b-4912-94f3-5978994d7f32" width="250"/>
+<img width="1080" height="2400" alt="Screenshot_20260914_233620" src="https://github.com/user-attachments/assets/6d99feff-d74f-4124-8994-0bf424d5feca" width="250"/>
+<img width="1080" height="2400" alt="Screenshot_20260914_233559" src="https://github.com/user-attachments/assets/afc7b326-57c5-4ea7-adcc-24c31bafdd06" width="250"/>
+
 
